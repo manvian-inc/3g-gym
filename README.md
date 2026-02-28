@@ -1,4 +1,4 @@
-# 3G Gym - Fitness Website
+# 3G Gym - Fitness Website sample
 
 A modern, responsive fitness/gym website built with Next.js 16, TypeScript, and Tailwind CSS.
 
